@@ -1,2 +1,2 @@
 def validar_datos(datos):
-    return True if datos == "datos"
+    return True if datos == "dato"
